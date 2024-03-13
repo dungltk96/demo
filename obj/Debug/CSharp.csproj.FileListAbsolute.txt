@@ -1,0 +1,7 @@
+D:\VNUA\CSharp\CSharp\bin\Debug\CSharp.exe.config
+D:\VNUA\CSharp\CSharp\bin\Debug\CSharp.exe
+D:\VNUA\CSharp\CSharp\bin\Debug\CSharp.pdb
+D:\VNUA\CSharp\CSharp\obj\Debug\CSharp.csproj.AssemblyReference.cache
+D:\VNUA\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+D:\VNUA\CSharp\CSharp\obj\Debug\CSharp.exe
+D:\VNUA\CSharp\CSharp\obj\Debug\CSharp.pdb
