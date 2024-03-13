@@ -10,7 +10,7 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            ////////11111111
+            ////////2222222
             ////Khắc phục lỗi font tiếng việt
             //Console.OutputEncoding = Encoding.UTF8;
 
